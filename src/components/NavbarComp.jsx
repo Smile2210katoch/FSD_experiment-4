@@ -14,6 +14,7 @@ function NavbarComp() {
             <Nav.Link as={Link} to="/about">About</Nav.Link>
             <Nav.Link as={Link} to="/services">Services</Nav.Link>
             <Nav.Link as={Link} to="/contact">Contact</Nav.Link>
+            <Nav.Link as={Link} to="/analytics">Analytics</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
